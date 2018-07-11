@@ -1,0 +1,9 @@
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Model\bin\Debug\netcoreapp2.0\Bontecou.Model.deps.json
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Model\bin\Debug\netcoreapp2.0\Bontecou.Model.dll
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Model\bin\Debug\netcoreapp2.0\Bontecou.Model.pdb
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Model\obj\Debug\netcoreapp2.0\Bontecou.Model.csprojAssemblyReference.cache
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Model\obj\Debug\netcoreapp2.0\Bontecou.Model.csproj.CoreCompileInputs.cache
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Model\obj\Debug\netcoreapp2.0\Bontecou.Model.AssemblyInfoInputs.cache
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Model\obj\Debug\netcoreapp2.0\Bontecou.Model.AssemblyInfo.cs
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Model\obj\Debug\netcoreapp2.0\Bontecou.Model.dll
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Model\obj\Debug\netcoreapp2.0\Bontecou.Model.pdb

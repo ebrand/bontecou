@@ -1,0 +1,17 @@
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\bin\Debug\netcoreapp2.0\Bontecou.Tests.deps.json
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\bin\Debug\netcoreapp2.0\Bontecou.Tests.runtimeconfig.json
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\bin\Debug\netcoreapp2.0\Bontecou.Tests.runtimeconfig.dev.json
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\bin\Debug\netcoreapp2.0\Bontecou.Tests.dll
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\obj\Debug\netcoreapp2.0\Bontecou.Tests.csprojAssemblyReference.cache
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\obj\Debug\netcoreapp2.0\Bontecou.Tests.csproj.CoreCompileInputs.cache
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\obj\Debug\netcoreapp2.0\Bontecou.Tests.AssemblyInfoInputs.cache
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\obj\Debug\netcoreapp2.0\Bontecou.Tests.AssemblyInfo.cs
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\bin\Debug\netcoreapp2.0\Bontecou.Tests.pdb
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\bin\Debug\netcoreapp2.0\Bontecou.Model.dll
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\bin\Debug\netcoreapp2.0\Bontecou.Model.pdb
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\obj\Debug\netcoreapp2.0\Bontecou.Tests.csproj.CopyComplete
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\obj\Debug\netcoreapp2.0\Bontecou.Tests.dll
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Tests\obj\Debug\netcoreapp2.0\Bontecou.Tests.pdb
