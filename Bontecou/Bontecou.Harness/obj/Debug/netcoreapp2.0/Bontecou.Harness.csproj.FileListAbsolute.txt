@@ -3,9 +3,9 @@ C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Harness\bin\Debug\netcoreapp2.0\Bon
 C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Harness\bin\Debug\netcoreapp2.0\Bontecou.Harness.runtimeconfig.dev.json
 C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Harness\bin\Debug\netcoreapp2.0\Bontecou.Harness.dll
 C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Harness\bin\Debug\netcoreapp2.0\Bontecou.Harness.pdb
-C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Harness\obj\Debug\netcoreapp2.0\Bontecou.Harness.csprojAssemblyReference.cache
 C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Harness\obj\Debug\netcoreapp2.0\Bontecou.Harness.csproj.CoreCompileInputs.cache
 C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Harness\obj\Debug\netcoreapp2.0\Bontecou.Harness.AssemblyInfoInputs.cache
 C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Harness\obj\Debug\netcoreapp2.0\Bontecou.Harness.AssemblyInfo.cs
 C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Harness\obj\Debug\netcoreapp2.0\Bontecou.Harness.dll
 C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Harness\obj\Debug\netcoreapp2.0\Bontecou.Harness.pdb
+C:\Users\eric_brand\GitHub\Bontecou\Bontecou.Harness\obj\Debug\netcoreapp2.0\Bontecou.Harness.csprojAssemblyReference.cache
