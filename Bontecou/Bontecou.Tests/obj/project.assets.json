@@ -5793,11 +5793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eric_brand\\GitHub\\Bontecou\\Bontecou.Tests\\Bontecou.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\eric_brand\\github\\bontecou\\Bontecou\\Bontecou.Tests\\Bontecou.Tests.csproj",
       "projectName": "Bontecou.Tests",
-      "projectPath": "C:\\Users\\eric_brand\\GitHub\\Bontecou\\Bontecou.Tests\\Bontecou.Tests.csproj",
+      "projectPath": "C:\\Users\\eric_brand\\github\\bontecou\\Bontecou\\Bontecou.Tests\\Bontecou.Tests.csproj",
       "packagesPath": "C:\\Users\\eric_brand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eric_brand\\GitHub\\Bontecou\\Bontecou.Tests\\obj\\",
+      "outputPath": "C:\\Users\\eric_brand\\github\\bontecou\\Bontecou\\Bontecou.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5811,14 +5811,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://DcsArtifacts.dell.com/artifactory/api/nuget/nuget-local": {},
+        "http://dcsartifacts.dell.com/artifactory/api/nuget/nuget-local": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\eric_brand\\GitHub\\Bontecou\\Bontecou.Model\\Bontecou.Model.csproj": {
-              "projectPath": "C:\\Users\\eric_brand\\GitHub\\Bontecou\\Bontecou.Model\\Bontecou.Model.csproj"
+            "C:\\Users\\eric_brand\\github\\bontecou\\Bontecou\\Bontecou.Model\\Bontecou.Model.csproj": {
+              "projectPath": "C:\\Users\\eric_brand\\github\\bontecou\\Bontecou\\Bontecou.Model\\Bontecou.Model.csproj"
             }
           }
         }

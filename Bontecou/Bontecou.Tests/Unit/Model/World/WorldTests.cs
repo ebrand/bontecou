@@ -33,10 +33,10 @@ namespace Bontecou.Tests.Unit.Model.World
 		public void HasValidExtents()
 		{
 			_world.Extents.ShouldNotBeNull();
-			_world.Extents.North.ShouldBe(0.0);
-			_world.Extents.East.ShouldBe(0.0);
-			_world.Extents.South.ShouldBe(0.0);
-			_world.Extents.West.ShouldBe(0.0);
+			_world.Extents.North.ShouldBe(1.0);
+			_world.Extents.East.ShouldBe(1.0);
+			_world.Extents.South.ShouldBe(-1.0);
+			_world.Extents.West.ShouldBe(-1.0);
 		}
 
 		[Fact(DisplayName = "Has an empty 'Actors' collection.")]
